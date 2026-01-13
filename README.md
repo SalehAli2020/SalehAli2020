@@ -12,4 +12,4 @@
 🌐 **Connect with me**  
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)  
 - [GitHub](https://github.com/yourusername)  
-- 📧 Email: eng.salehali2020@example.com
+- 📧 Email: eng.salehali2020@gmail.com
