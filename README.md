@@ -22,6 +22,6 @@ Includes property management, offer handling, computed fields, and multiple view
 ---
 
 ## 🌐 Connect with Me
-- 💼 LinkedIn: *https://www.linkedin.com/in/saleh-ali-04486b236/?trk=opento_sprofile_details*  
+- 💼 LinkedIn: *https://www.linkedin.com/in/saleh-ali-04486b236/*  
 - 🧑‍💻 GitHub: [https://github.com/SalehAli2020](https://github.com/SalehAli2020)  
 - 📧 Email: eng.salehali2020@gmail.com
